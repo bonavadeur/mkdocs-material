@@ -1,0 +1,5 @@
+site_name: Ikukantai - 行く艦隊
+site_url: https://ikukantai.bonavadeur.io.vn
+site_dir: site
+theme:
+  name: material
