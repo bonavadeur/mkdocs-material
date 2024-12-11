@@ -1,0 +1,53 @@
+site_name: Ikukantai - 行く艦隊
+site_url: https://ikukantai.bonavadeur.io.vn
+theme:
+  name: material
+  logo: /assets/image/logo.jpg
+  favicon: /assets/image/logo.jpg
+  palette:
+    scheme: default
+    primary: black
+    accent: red
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - search.suggest
+  - search.highlight
+# extra:
+#   alternate:
+#   - name: English
+#     link: /en/docs
+#     lang: en
+#   - name: Tiếng Việt
+#     link: /vi/docs
+#     lang: vi
+plugins:
+- search
+- i18n:
+    docs_structure: folder
+    languages:
+    - locale: en
+      default: true
+      name: English
+      build: true
+      reconfigure_search: true
+      nav:
+      - Home: index.md
+      - Installation: installation/index.md
+      - Reference: reference/index.md
+    - locale: vi
+      name: Tiếng Việt
+      build: true
+      reconfigure_search: true
+      nav:
+      - Trang chủ: index.md
+      - Cài đặt: installation/index.md
+      - Tài liệu tham khảo: reference/index.md
+    - locale: ja
+      name: 日本語
+      build: true
+      reconfigure_search: true
+      nav:
+      - ホーム: index.md
+      - インストール: installation/index.md
+      - リファレンス: reference/index.md
