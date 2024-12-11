@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/installation/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/installation/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/reference/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/reference/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/vi/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/vi/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/vi/installation/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/vi/installation/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/vi/reference/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/vi/reference/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/ja/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/ja/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/ja/installation/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/ja/installation/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/installation/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/installation/index.html"/>
     </url>
     <url>
-        <loc>https://bonavadeur.github.io/mkdocs-material/ja/reference/</loc>
+        <loc>https://bonavadeur.github.io/mkdocs-material/ja/reference/index.html</loc>
         <lastmod>2024-12-11</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/"/>
-        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://bonavadeur.github.io/mkdocs-material/ja/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bonavadeur.github.io/mkdocs-material/reference/index.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://bonavadeur.github.io/mkdocs-material/vi/reference/index.html"/>
     </url>
 </urlset>
