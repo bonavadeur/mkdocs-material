@@ -1,9 +1,10 @@
-site_name: Ikukantai - 行く艦隊
-site_url: https://ikukantai.bonavadeur.io.vn
+site_name: Material for Mkdocs の試し
+site_url: https://bonavadeur.github.io/mkdocs-material/
+repo_url: https://github.com/bonavadeur/mkdocs-material
 theme:
   name: material
-  logo: /assets/image/logo.jpg
-  favicon: /assets/image/logo.jpg
+  logo: assets/image/logo.jpg
+  favicon: assets/image/logo.jpg
   palette:
     scheme: default
     primary: black
@@ -13,14 +14,6 @@ theme:
   - navigation.tabs.sticky
   - search.suggest
   - search.highlight
-# extra:
-#   alternate:
-#   - name: English
-#     link: /en/docs
-#     lang: en
-#   - name: Tiếng Việt
-#     link: /vi/docs
-#     lang: vi
 plugins:
 - search
 - i18n:
